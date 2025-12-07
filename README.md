@@ -85,7 +85,7 @@ a:active {
 
 /* 主页样式 */
 .homepage {
-    background-image: url('主页背景图.jpg');
+    background-image: url("https://image.so.com/ai/large/view?end=60&id=9495bfe1c3352433ce2a49434a2cf6c6&q=%E4%B9%92%E4%B9%93%E8%83%8C%E6%99%AF%E5%9B%BE&tab=all&srcg=imglist_img");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
