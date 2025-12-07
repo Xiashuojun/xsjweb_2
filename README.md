@@ -85,7 +85,7 @@ a:active {
 
 /* 主页样式 */
 .homepage {
-    background-image: url('');
+    background-image: url('https://github.com/Xiashuojun/xsjweb_2/blob/main/Myweb/image/%E4%B8%BB%E9%A1%B5%E8%83%8C%E6%99%AF%E5%9B%BE.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
