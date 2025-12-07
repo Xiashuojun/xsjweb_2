@@ -152,7 +152,7 @@ a:active {
                         容国团
                     </td>
                     <td style="text-align: center; width: 50%;">
-                        <img src="../image/庄则栋.jpg" width="400" height="433" alt="庄则栋"/><br>
+                        <img src="https://image.so.com/ai/large/view?end=60&id=639ce9d6efb4eeef11c61f3db5ea0d8e&q=%E5%BA%84%E5%88%99%E6%A0%8B&tab=all&srcg=imglist_img" width="400" height="433" alt="庄则栋"/><br>
                         庄则栋
                     </td>
                 </tr>
