@@ -148,7 +148,7 @@ a:active {
             <tbody>
                 <tr>
                     <td style="text-align: center; width: 50%;">
-                        <img src="../image/容国团.jpg" width="332" height="422" alt="容国团"/><br>
+                        <img src="image/容国团.jpg" width="332" height="422" alt="容国团"/><br>
                         容国团
                     </td>
                     <td style="text-align: center; width: 50%;">
